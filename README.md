@@ -1,6 +1,10 @@
 # Burst-Balloon-Game
 This game with C implements the Balloon Burst game using OpenGL and GLUT, with a graphical interface. 
 
+## Gameplay
+[https://www.youtube.com/watch?v=7DwvzgzLe9w
+](https://www.youtube.com/watch?v=7DwvzgzLe9w)
+
 # Controls
 **SpaceBar** : Fire/Restart
 
